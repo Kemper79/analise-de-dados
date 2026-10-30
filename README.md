@@ -1,1 +1,1 @@
-Um pequeno trabalho que fiz durante meu curso de Análise e Desenvolvimento de Sistemas. Nesse trabalho, analisei as vendas de alguns produtos e, ao final, fiz um gráfico sobre as vendas por categoria e as vendas por mês. Conserte os erros de ortografia e pontuação.
+Um pequeno trabalho que fiz durante meu curso de Análise e Desenvolvimento de Sistemas. Nesse trabalho, analisei as vendas de alguns produtos e, ao final, fiz um gráfico sobre as vendas por categoria e as vendas por mês.
